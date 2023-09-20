@@ -1,4 +1,0 @@
-//1. Buatlah Algoritma Pengrurutan bilangan dari yang terbesar sampai yang terkecil 
-//2. Buatlah Slice dengan jumlah data di dalam slice yaitu ada 5 buah dan tambahkan data ke dalam slice sebanyak 3
-
-up di github
